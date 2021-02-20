@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="908a38da-69ef-4efd-976b-a39fa7b150b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\My_Git_PROJ\DNFCalculating-master\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m8DV8xSLsbtLxnnvPd6T6UI3iv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PyQt-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="极诣·剑影" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DNFCalculating-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Characters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Characters/极诣·剑影.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="common" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DNFCalculating-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PublicReference" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PublicReference/common.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="configparser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DNFCalculating-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Anaconda/envs/DNFjsq/Lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Anaconda/envs/DNFjsq/Lib/configparser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csv_file_operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DNFCalculating-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_file_operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DNFCalculating-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.common" />
+        <item itemvalue="Python.极诣·剑影" />
+        <item itemvalue="Python.csv_file_operation" />
+        <item itemvalue="Python.configparser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="908a38da-69ef-4efd-976b-a39fa7b150b9" name="Default Changelist" comment="" />
+      <created>1608866347995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608866347995</updated>
+      <workItem from="1608866363365" duration="507000" />
+      <workItem from="1608874241968" duration="408000" />
+      <workItem from="1608877828001" duration="789000" />
+      <workItem from="1608880571374" duration="2513000" />
+      <workItem from="1609135723828" duration="388000" />
+      <workItem from="1609137033788" duration="2426000" />
+      <workItem from="1611645048747" duration="4996000" />
+      <workItem from="1611819630174" duration="3916000" />
+      <workItem from="1611879892049" duration="1756000" />
+      <workItem from="1611882157410" duration="23101000" />
+      <workItem from="1612139310275" duration="7855000" />
+      <workItem from="1612164796721" duration="5432000" />
+      <workItem from="1612312172920" duration="19735000" />
+      <workItem from="1612398651170" duration="22262000" />
+      <workItem from="1612488703054" duration="1929000" />
+      <workItem from="1612502930559" duration="10626000" />
+      <workItem from="1612658800316" duration="7114000" />
+      <workItem from="1612674760535" duration="7221000" />
+      <workItem from="1613615256892" duration="386000" />
+      <workItem from="1613625439688" duration="11477000" />
+      <workItem from="1613699069480" duration="4233000" />
+      <workItem from="1613718625887" duration="5745000" />
+      <workItem from="1613781068664" duration="5446000" />
+      <workItem from="1613799289975" duration="4297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608878146610">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1608878146610" />
+    <state x="404" y="170" width="471" height="486" key="#com.intellij.tools.ToolEditorDialog" timestamp="1609142076821">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="404" y="170" width="471" height="486" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.680@0.0.1280.680" timestamp="1609142076821" />
+    <state x="396" y="43" key="#xdebugger.evaluate" timestamp="1611887132660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="43" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1611887132660" />
+    <state width="813" height="466" key="DebuggerActiveHint" timestamp="1612512960617">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="813" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1612512960617" />
+    <state x="354" y="187" key="FileChooserDialogImpl" timestamp="1611901021937">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="354" y="187" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611901021937" />
+    <state width="1237" height="98" key="GridCell.Tab.0.bottom" timestamp="1613705056913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="98" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1613705056913" />
+    <state width="1237" height="98" key="GridCell.Tab.0.center" timestamp="1613705056913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="98" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1613705056913" />
+    <state width="1237" height="98" key="GridCell.Tab.0.left" timestamp="1613705056913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="98" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1613705056913" />
+    <state width="1237" height="98" key="GridCell.Tab.0.right" timestamp="1613705056913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="98" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1613705056913" />
+    <state width="1237" height="166" key="GridCell.Tab.1.bottom" timestamp="1612668529666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1612668529666" />
+    <state width="1237" height="166" key="GridCell.Tab.1.center" timestamp="1612668529666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1612668529666" />
+    <state width="1237" height="166" key="GridCell.Tab.1.left" timestamp="1612668529666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1612668529666" />
+    <state width="1237" height="166" key="GridCell.Tab.1.right" timestamp="1612668529666">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1612668529666" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1609142093277">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1609142093277" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1611883509249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1611883509249" />
+    <state x="195" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612665327554">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="195" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1612665327554" />
+    <state x="0" y="0" width="638" height="680" key="find.popup" timestamp="1608880681877">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="638" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1608880681877" />
+    <state x="301" y="105" width="672" height="678" key="search.everywhere.popup" timestamp="1612664873310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="301" y="105" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1612664873310" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Part/不灭战神.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda/envs/DNFjsq/Lib/base64.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.角色属性A.实际名称" language="Python" />
+        <watch expression="mq.minheap.getTop()" language="Python" />
+        <watch expression="data.minheap_queue.getTop()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DNFCalculating_master$csv_file_operation.coverage" NAME="csv_file_operation Coverage Results" MODIFIED="1612335657575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DNFCalculating_master$configparser.coverage" NAME="configparser Coverage Results" MODIFIED="1612168260068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Anaconda/envs/DNFjsq/Lib" />
+    <SUITE FILE_PATH="coverage/DNFCalculating_master$main.coverage" NAME="main Coverage Results" MODIFIED="1613699700624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DNFCalculating_master$_.coverage" NAME="极诣·剑影 Coverage Results" MODIFIED="1612422483314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Characters" />
+    <SUITE FILE_PATH="coverage/DNFCalculating_master$common.coverage" NAME="common Coverage Results" MODIFIED="1612677762513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PublicReference" />
+    <SUITE FILE_PATH="coverage/DNFCalculating_master$adventure_choice.coverage" NAME="adventure_choice Coverage Results" MODIFIED="1612166649705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DNFCalculating_master$test.coverage" NAME="test Coverage Results" MODIFIED="1611901986590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
